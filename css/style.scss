@@ -1,0 +1,26 @@
+ #navbar { 
+    list-style-type: none;  
+    margin: 29px 0 0 0; 
+    padding: 0; float: right; 
+    font-size: 16pt;
+    background-color: blue;
+    text-align: center;
+}
+#navbar li { 
+    display: inline; 
+}
+#navbar li a:link, #navbar li a:visited, #navbar li a:active { 
+    text-decoration: none; 
+    color: #000000; 
+    padding: 0 16px 0 10px;  
+    margin: 0; 
+    border-right: 2px solid #B4B4B4; 
+}
+#navbar li a:link.last-link { 
+    /* remove divider */ 
+    border-right: 0px;
+}
+#navbar li a:hover { 
+   
+    color: #EB6361;
+}

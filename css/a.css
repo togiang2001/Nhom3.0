@@ -1,0 +1,126 @@
+
+
+
+	#one-third{
+		 text-align:left;
+	}
+
+ #navbar {
+ 	
+    list-style-type: none; 
+    padding: 0; float: right; 
+    font-size: 20pt;
+    background-color: darkred;
+ 	
+
+}
+#navbar li { 
+    display: inline; 
+}
+#navbar li a { 
+    text-decoration: none; 
+    color: #000000; 
+    padding: 0 100px 0 0px;  
+    margin: 0; 
+   
+}
+#navbar li a{ 
+    /* remove divider */ 
+    border-right: 0px;
+}
+#navbar li a:hover { 
+    
+    color: #EB6361;
+}
+#main #left {
+	width: 800px;
+	
+	float: left;	
+}
+#nano {
+	background: #a50a0a;
+	height: 300px;
+	width: 1000px;
+	text-align: center;
+}
+
+#main #left ul {
+	margin: 0px;
+	padding: 30px;}
+
+#main #left ul li {
+	list-style:none;
+	clear: left;
+    border-bottom: 2px solid #ccc;
+	float: left;
+	margin-bottom: 20px;
+}
+#main #left ul li img {
+	float:left;
+	margin-right: 50px;
+}
+#main #left ul li h2 {
+	font-size: 30px;
+}
+
+#main {
+	margin-top: 20px;
+}
+
+#main #right .manu_right ul {
+	margin: 0px;
+	padding: 0px;
+}
+#main #right .manu_right ul li {
+	list-style: none;
+}
+
+
+
+#left img {
+	height: 400px;
+	width: 400px;
+}
+#main #nano ul {
+	margin: 0px;
+	padding: 30px;}
+
+#main #nano ul li {
+	list-style:none;
+	clear: left;
+	float: left;
+	margin-bottom: 20px;
+	color: #ffffff;
+	text-align: center;
+}
+
+#main #nano ul li h1 {
+	font-size: 46px;
+	text-align: center;
+	padding: 15px 0;
+	text-transform: uppercase;
+	color: #ffffff;
+}
+#hinhanh{
+	width: 100%; 
+    float: left; 
+    box-sizing: border-box; 
+    padding-left: 80px; 
+ 
+    margin-top: 60px
+    height: 60px;
+}
+
+#hinhanh{
+	width: 100%; 
+    float: left; 
+    box-sizing: border-box; 
+    padding-left: 80px; 
+ 
+    margin-top: 60px
+    height: 60px;
+}
+
+
+/*# sourceMappingURL=b.css.map */
+
